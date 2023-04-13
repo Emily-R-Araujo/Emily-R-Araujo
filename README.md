@@ -1,7 +1,7 @@
 ## Seja bem-vindo ao meu perfil!
 <div>
   <a href="https://github.com/Emily-R-Araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emily-r-araujo&show_icons=true&theme=draculat&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emily-r-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emily-r-araujo&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
