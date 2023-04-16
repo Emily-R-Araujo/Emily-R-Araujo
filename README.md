@@ -1,4 +1,8 @@
 ## Seja bem-vindo ao meu perfil!
+### Atual desenvolvimento / Current development:
+#### Estudante / Student
+### Idiomas / Languages:
+#### Português / English
 <div>
   <a href="https://github.com/Emily-R-Araujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emily-r-araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
