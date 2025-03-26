@@ -5,8 +5,8 @@
 #### Português / English
 <div>
   <a href="https://github.com/Emily-R-Araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emily-r-araujo&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emily-r-araujo&layout=compact&langs_count=6&theme=material-palenight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emily-R-Araujo&show_icons=true&theme=material-palenight&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-R-Araujo&layout=compact&langs_count=6&theme=material-palenight"/>
 </div>
     
 <div style="display: inline_block"><br>
