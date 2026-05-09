@@ -3,11 +3,6 @@
 #### Estudante / Student
 ### Idiomas / Languages:
 #### Português / English
-<div>
-  <a href="https://github.com/Emily-R-Araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emily-R-Araujo&show_icons=true&theme=material-palenight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emily-R-Araujo&layout=compact&langs_count=6&theme=material-palenight"/>
-</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
